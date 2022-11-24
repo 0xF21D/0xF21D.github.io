@@ -1,4 +1,4 @@
-Hi! This is set up right now for verifying my Github profile on Mastodon. 
+Hi! This is set up right now as an experiment at getting my github account verified in mastodon. Currently not working but maybe someday. :)
 
 [Link to my github profile](https://github.com/0xF21D)
 
